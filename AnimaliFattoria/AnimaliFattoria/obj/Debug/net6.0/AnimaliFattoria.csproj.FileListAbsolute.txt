@@ -1,0 +1,15 @@
+C:\Users\fedeg\OneDrive\Desktop\AnimaliFattoria\AnimaliFattoria\AnimaliFattoria\bin\Debug\net6.0\AnimaliFattoria.exe
+C:\Users\fedeg\OneDrive\Desktop\AnimaliFattoria\AnimaliFattoria\AnimaliFattoria\bin\Debug\net6.0\AnimaliFattoria.deps.json
+C:\Users\fedeg\OneDrive\Desktop\AnimaliFattoria\AnimaliFattoria\AnimaliFattoria\bin\Debug\net6.0\AnimaliFattoria.runtimeconfig.json
+C:\Users\fedeg\OneDrive\Desktop\AnimaliFattoria\AnimaliFattoria\AnimaliFattoria\bin\Debug\net6.0\AnimaliFattoria.dll
+C:\Users\fedeg\OneDrive\Desktop\AnimaliFattoria\AnimaliFattoria\AnimaliFattoria\bin\Debug\net6.0\AnimaliFattoria.pdb
+C:\Users\fedeg\OneDrive\Desktop\AnimaliFattoria\AnimaliFattoria\AnimaliFattoria\obj\Debug\net6.0\AnimaliFattoria.csproj.AssemblyReference.cache
+C:\Users\fedeg\OneDrive\Desktop\AnimaliFattoria\AnimaliFattoria\AnimaliFattoria\obj\Debug\net6.0\AnimaliFattoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedeg\OneDrive\Desktop\AnimaliFattoria\AnimaliFattoria\AnimaliFattoria\obj\Debug\net6.0\AnimaliFattoria.AssemblyInfoInputs.cache
+C:\Users\fedeg\OneDrive\Desktop\AnimaliFattoria\AnimaliFattoria\AnimaliFattoria\obj\Debug\net6.0\AnimaliFattoria.AssemblyInfo.cs
+C:\Users\fedeg\OneDrive\Desktop\AnimaliFattoria\AnimaliFattoria\AnimaliFattoria\obj\Debug\net6.0\AnimaliFattoria.csproj.CoreCompileInputs.cache
+C:\Users\fedeg\OneDrive\Desktop\AnimaliFattoria\AnimaliFattoria\AnimaliFattoria\obj\Debug\net6.0\AnimaliFattoria.dll
+C:\Users\fedeg\OneDrive\Desktop\AnimaliFattoria\AnimaliFattoria\AnimaliFattoria\obj\Debug\net6.0\refint\AnimaliFattoria.dll
+C:\Users\fedeg\OneDrive\Desktop\AnimaliFattoria\AnimaliFattoria\AnimaliFattoria\obj\Debug\net6.0\AnimaliFattoria.pdb
+C:\Users\fedeg\OneDrive\Desktop\AnimaliFattoria\AnimaliFattoria\AnimaliFattoria\obj\Debug\net6.0\AnimaliFattoria.genruntimeconfig.cache
+C:\Users\fedeg\OneDrive\Desktop\AnimaliFattoria\AnimaliFattoria\AnimaliFattoria\obj\Debug\net6.0\ref\AnimaliFattoria.dll
