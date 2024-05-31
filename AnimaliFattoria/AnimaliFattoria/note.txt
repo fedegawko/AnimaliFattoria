@@ -1,0 +1,30 @@
+Traccia:
+
+Con Visual Studio realizza una Console Application (o WPF o WinForm o Blazor a scelta) in C# che permette di gestire una serie di animali da fattoria.
+
+Funzionalità richieste:
+1) elenco degli animali
+2) scelta di un animale per vedere in dettaglio le sue caratteristiche
+2) aggiunta di un animale (e delle sue caratteristiche)
+3) scelta di un animale a caso tra quelli nell'elenco
+4) eliminazione di un animale (con conferma da parte dell'utente)
+5) elenco dei versi di tutti gli animali
+
+Vincoli architetturali:
+a) i modelli devono risiedere in una Class Library referenziata dal progetto principale
+b) applicare più possibile i principi OOP
+c) usare una classe generica Animale e tante classi derivate quanti sono i tipi di animali (es: gallina, cane, mucca, etc...)
+d) ogni tipo di animale deve avere un metodo "Comunica()", che arriva da un'interfaccia IComunicante, che mostra il verso di quell'animale
+e) implementare un metodo che accetta una collezione di IComunicante al fine di realizzare la funzionalità nr. 5
+
+______________________________________________________________
+
+Verifica:
+
+- manca il .gitignore (studiare a che serve e perché va messo nei progetti .net)
+- punto a) manca completamente!!!
+- punto b) studiare i principi SOLID
+- punto c) sarebbe meglio fare la classe Animale abstract (studiare perché)
+- punto d) per quale motivo la classe Animale ha il metodo comunica?! Il metodo viene così overridato dalle classi ereditate e non implementato tramite l'interfaccia.
+- punto e) la collezione non deve essere di Animali ma di IComunicante
+- la navigazione tra le funzioni (elenco, aggiunta, scelta, eliminazione etc..) non è libera (mi aspettavo un menu) ma segue il flow del programma: inusabile in un caso reale.
