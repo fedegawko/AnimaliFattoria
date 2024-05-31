@@ -7,7 +7,7 @@ public class Cavallo : Animale
 {
     public bool Competizione { get; set; }
 
-    public Cavallo(string nome, string colore, int numero, bool competizione) : base(nome, colore, numero)
+    public Cavallo(string nome, string colore, int numero, bool competizione) : base(nome, colore)
     {
         this.Competizione = competizione;
     }

@@ -4,7 +4,7 @@ public class Mucca : Animale, IComunicante
 {
     public string Allevamento { get; set; }
 
-    public Mucca(string nome, string colore, int numero, string allevamento) : base(nome, colore, numero)
+    public Mucca(string nome, string colore, int numero, string allevamento) : base(nome, colore)
     {
         this.Allevamento = allevamento;
     }
