@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimaliFattoria", "AnimaliFattoria\AnimaliFattoria.csproj", "{48A8D4B3-4888-44EC-B4C8-8B42A3D16992}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimaliFattoria", "AnimaliFattoria\AnimaliFattoria.csproj", "{48A8D4B3-4888-44EC-B4C8-8B42A3D16992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{CBC8BD1C-634C-4B74-AFD6-2A395561747E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{48A8D4B3-4888-44EC-B4C8-8B42A3D16992}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48A8D4B3-4888-44EC-B4C8-8B42A3D16992}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48A8D4B3-4888-44EC-B4C8-8B42A3D16992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC8BD1C-634C-4B74-AFD6-2A395561747E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC8BD1C-634C-4B74-AFD6-2A395561747E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC8BD1C-634C-4B74-AFD6-2A395561747E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC8BD1C-634C-4B74-AFD6-2A395561747E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
